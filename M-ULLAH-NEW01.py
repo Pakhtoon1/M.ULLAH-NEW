@@ -250,7 +250,8 @@ def banner():
 
 	sol()
 
-	ban=''' © Brute force Facebook account
+	ban=''' 
+	© Brute force Facebook account
 
 ╔╦╗   ╦ ╦╦  ╦  ╔═╗╦ ╦
 
