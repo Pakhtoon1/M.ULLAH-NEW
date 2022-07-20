@@ -2038,6 +2038,6 @@ if __name__=='__main__':
 
 	login()
 
-#>>>>> THANKS TO THIS HERE <<<<<<<#
 
-#>>>>> Cowok_pink_13<<<<<#
+
+
